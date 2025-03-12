@@ -6,7 +6,7 @@ This project demonstrates how to build a chatbot that interacts with users and a
 ## Introduction
 Chatbots powered by large language models have transformed how we interact with digital systems. However, most chatbots rely on generalized knowledge, limiting their effectiveness for document-specific inquiries. This project addresses that limitation by integrating document-based comprehension into a chatbot. Users can upload a PDF file, and the chatbot will analyze its content, allowing for interactive and meaningful conversations specific to the document.
 
-![Alt text](Chatbot PDF  2.png)
+![Alt text](Chatbot PDF 2.PNG)
 
 ## Technologies Used
 - **Flask** – A lightweight web framework for building the chatbot’s backend.
