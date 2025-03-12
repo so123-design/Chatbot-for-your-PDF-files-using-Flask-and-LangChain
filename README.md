@@ -10,9 +10,6 @@ Chatbots powered by large language models have transformed how we interact with 
   <img src="https://github.com/so123-design/Chatbot-for-your-PDF-files-using-Flask-and-LangChain/blob/c67aa5e1fe48039fe70ca9604ee07a5eb463fb42/Chatbot%20PDF%20%202.PNG" alt="My Image" width="800">
 </p>
 
-
-![image alt](https://github.com/so123-design/Chatbot-for-your-PDF-files-using-Flask-and-LangChain/blob/c67aa5e1fe48039fe70ca9604ee07a5eb463fb42/Chatbot%20PDF%20%202.PNG))
-
 ## Technologies Used
 - **Flask** – A lightweight web framework for building the chatbot’s backend.
 - **LangChain** – A framework for building applications powered by large language models (LLMs).
